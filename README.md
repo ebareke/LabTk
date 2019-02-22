@@ -8,41 +8,6 @@
 </head>
 
 <body class="stackedit">
-	 <h1 id="welcome-to-labtk"> LabTk </h1>
-  <div class="stackedit__left">
-    <div class="stackedit__toc">
-      
-
-<li><a href="#logging-to-your-regional-cc-cloud">Logging to your regional CC cloud</a></li>
-<li><a href="#setting-your-environment">Setting your environment</a></li>
-</ul>
-</li>
-<li></li>
-<li><a href="#what-is-covered-here-">What is covered here ?</a>
-<ul>
-<li><a href="#introductory-hands-ons">Introductory Hands-ons</a></li>
-<li><a href="#preparing-analyses">Preparing analyses</a></li>
-</ul>
-</li>
-<li>
-<ul>
-<li><a href="#exomegenome-analyses">Exome/Genome analyses</a></li>
-</ul>
-</li>
-<li>
-<ul>
-<li><a href="#transcriptomic-analyses">Transcriptomic analyses</a></li>
-</ul>
-</li>
-<li>
-<ul>
-<li><a href="#epigenetic-analyses">Epigenetic analyses</a></li>
-</ul>
-</li>
-</ul>
-
-</div>
-  </div>
   <div class="stackedit__right">
     <div class="stackedit__html">
       <h1 id="welcome-to-labtk">Welcome to LabTk!</h1>
