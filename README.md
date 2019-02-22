@@ -68,7 +68,7 @@ export PATH="/project/6019267/singularity/1.1.0/images/bin:$PATH"
 <a href="">HLA-typing workflow</a>.</p>
 </blockquote>
 <ul>
-<li class="task-list-item"><input type="checkbox" class="task-list-item-checkbox" disabled=""> DNASeq post-processing (QC Review, Differential Expression, Alternative Splicing, PolyAdenylation analysis)</li>
+<li class="task-list-item"><input type="checkbox" class="task-list-item-checkbox" disabled=""> DNASeq post-processing (QC Review, Annotations, Prioritization, Classification)</li>
 </ul>
 <blockquote>
 <p><a href="">Post-erm QC Review</a>.<br>
@@ -109,7 +109,6 @@ export PATH="/project/6019267/singularity/1.1.0/images/bin:$PATH"
 <p>TODO</p>
 </blockquote>
 
-    </div>
   </div>
 </body>
 
